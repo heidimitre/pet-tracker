@@ -3,13 +3,13 @@
 one:
   entry_type: MyString
   description: MyString
-  time: 1
+  time: 2021-08-26 15:48:19
   amount: MyString
   notes: MyString
 
 two:
   entry_type: MyString
   description: MyString
-  time: 1
+  time: 2021-08-26 15:48:19
   amount: MyString
   notes: MyString
